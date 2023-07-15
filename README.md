@@ -8,7 +8,7 @@ ESG stands for Environmental, social and corporate governance ([details](https:/
 
 Below is a plot of Glassdoor rankings by employees of two large complanies what serially measure well-being.
 
-* To add large healthcare institutions to the plot, click [here](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-healthcare-2023-07-14.png).
+* To add large healthcare institutions to the plot, click [here](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-healthcare-2023-07-14.png). Although some heatlhcare organizations have had intermittent success with rankings, none have sustained their success.
 
   ![Glassdoor](../main/files/Plot-Glassdoor-no_healthcare-2023-07-14.png)
 
