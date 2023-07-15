@@ -6,7 +6,7 @@ ESG stands for Environmental, social and corporate governance ([details](https:/
 
 * Regarding "Social" this includes workforce conditions.
 
-Below is a plot of Glassdoor rankings by employees of two large complanies what serially measure well-being.
+Below is a plot of Glassdoor rankings by employees of two large companies that serially measure well-being. Note that Microsoft started measuring their well-being sometime between Ballmer leaving in 2014 and 2020 when they first publicly released results.
 
 * To add large healthcare institutions to the plot, click [here](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-healthcare-2023-07-14.png). Although some heatlhcare organizations have had intermittent success with rankings, none have sustained their success.
 
