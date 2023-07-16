@@ -18,4 +18,4 @@ Per https://www.sasb.org, metrics are:
 * For each category of employees, the entity shall disclose the annual voluntary turnover.
 * For each category of employees, the entity shall disclose the annual involuntary turnover.
 
-More items are needed to measure. Suggestions are at https://ebmgt.github.io/survey-inventory/
+More items are needed to measure. Suggestions of validated, relevant questions of workforce are at https://ebmgt.github.io/survey-inventory/
