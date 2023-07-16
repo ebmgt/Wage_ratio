@@ -2,12 +2,10 @@
 
 Back to the main page: https://ebmgt.github.io/ESG
 
-The plot below adds large healthcare institutions to the Google-Microsoft plot, click [here](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-healthcare-2023-07-14.png). 
-
-Although some healthcare organizations have had intermittent success with rankings, none have sustained their success.
+The plot below adds large healthcare institutions to the Google-Microsoft plot. Does this plot show that ESG reporting can identify healthcare institutions with successful workforce environments?
 
 ### The Mayo Clinic data is plausible
-While the quality of the Glassdoor data can be challenged due to the representativeness of the volunteer respondents and other concerns. However, the Mayo Clinic rankings are plausible.
+While the quality of the Glassdoor data can be challenged due to the representativeness of the volunteer respondents, the non-specifity of what is being measured, and other concerns. However, the Mayo Clinic rankings are plausible.
 
 According to a report by Shanafelt and Noseworthy in 2017, the Mayo Clinic started serially measuring well-being in 2010 and implemented hotspotting to help selected departments ([Shanafelt and Noseworthy, 2017](https://pubmed.gov/27871627)):
 > We began systematically measuring burnout using standardized instruments in 2010. We also regularly measure engagement and satisfaction with work-life integration.
