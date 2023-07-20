@@ -20,6 +20,6 @@ According to a report by Shanafelt and Noseworthy in 2017, the Mayo Clinic start
 
 Shanafelt left the Mayo Clinic in 2017 and Noseworthy retired in 2018.
 
-  ![Glassdoor](https://github.com/ebmgt/ESG/blob/main/files//Plot-Glassdoor-healthcare-2023-07-14.png)
+  ![Glassdoor](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-no_healthcare-2023-07-19.png)
 
 More items are needed to measure. Suggestions, with national benchmarks for key measures, are at https://ebmgt.github.io/survey-inventory/
