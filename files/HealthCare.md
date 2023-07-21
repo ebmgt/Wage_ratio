@@ -1,4 +1,4 @@
-# ESG
+# ESG and healthcare
 
 Back to the main page: https://ebmgt.github.io/ESG
 
