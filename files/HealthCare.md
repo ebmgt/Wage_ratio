@@ -15,6 +15,7 @@ Back to the main page: https://ebmgt.github.io/ESG
 The plot at the bottom of this page adds large healthcare institutions to the Google-Microsoft plot. 
 
 ### The Mayo Clinic data is plausible
+#### CEO change and hotspotting to identify and help units with low well-being within a large healthcare system
 While the quality of the Glassdoor data can be challenged due to the representativeness of the volunteer respondents, the non-specificity of what is being measured, and other concerns, the Mayo Clinic rankings are plausible and the results suggest the Mayo Clinic, like Google and Microsoft, required a similar number of years after introducing major organizational change before positive impact on Glassdoor rankings occurred.
 
 According to a report by Shanafelt and Noseworthy in 2017, the Mayo Clinic started serially measuring well-being in 2010 and implemented hotspotting to help selected departments:
@@ -27,9 +28,12 @@ According to a report by Shanafelt and Noseworthy in 2017, the Mayo Clinic start
 > “Fundamentally, you manage what you measure,” argues Mayo Clinic President and Chief Executive Officer John Noseworthy. “CEO performance scorecards always include financial and quality measures, but mine also has staff engagement, satisfaction, and burnout measures that are reported up to the board of trustees.”
 ([Wright & Katz, 2018](https://pubmed.gov/29365301))
 
+In 2014, the Mayo Clinic entered the Glassdoor top 50 ranking (see chart below). The burnout rate among physicians in the Mayo Clinic for 2016 was 33% by Maslach Burnout Inventory (high EE or high DP subscale) (Shanafelt. Mayo Clin Proc. 2017 PMID: [27871627](HTTP://pubmed.gov/27871627)).
+
 Shanafelt left the Mayo Clinic in 2017 and Noseworthy retired in 2018.
 
 ### St Jude data is plausible
+#### CEO change and structured monthly soliciting, prioritizing, and responses to issues submitted by employees within a small, single hospital
 St Jude appointed a new CEO, James Downing, in 2014. In 2015, the [2016-2015 strategic](https://www.stjude.org/content/dam/en_US/shared/www/about-st-jude/st-jude-strategic-plan-2015-external.pdf) plan noted:
 > The CEO will initiate monthly town hall meetings to solicit input on key institutional efforts and issues. This new program will incorporate a page on the St. Jude intranet for employees to submit questions, rank the priority of the questions and see what questions will be discussed at upcoming town hall meetings.
 
@@ -43,7 +47,7 @@ Accordingly, two publications of burunout rates in St Jude reported low rates in
 * 34% by Maslach Burnout Inventory (high EE or high DP or high PA subscale) in 2018 among 65 physicians.  20% to 33% among other clinical staff groups (Dunn et al. Pediatr Blood Cancer. 2021 PMID: [34227729](HTTP://pubmed.gov/34227729))
 
 In 2019, the burnout rate rose and in 2019, the Glassdoor ranking for St Jude fell (was not in the top 50 in 2020):
-* 43% by the SIBOQ embedded in a Mini-Z survey of physicians. This equals an MBI rate of about 50% ([citation](https://ebmgt.github.io/well-being_measurement/)). (Raney et alL. JCO Oncol Pract. 2020 PMID: [32758084](HTTP://pubmed.gov/32758084)).
+* 43% by the SIBOQ embedded in a Mini-Z survey of physicians. This equals an MBI rate of about 50% ([conversion details](https://ebmgt.github.io/well-being_measurement/)). (Raney et alL. JCO Oncol Pract. 2020 PMID: [32758084](HTTP://pubmed.gov/32758084)).
 
 Probably not influencing rates of burnout at St Jude because of lack of temporal association, St Jude started using the AHRQ SOPS Hospital Survey in 2009 and biennially since ([AHRQ reports](https://www.ahrq.gov/news/newsroom/case-studies/cquips1402.html); [St Jude website](https://www.stjude.org/treatment/services/clinics-and-services/patient-safety.html)). In 2017 the [AHRQ reported](https://www.ahrq.gov/news/newsroom/case-studies/201709.html) that St Jude used AHRQ SOPS Hospital Survey to gather workforce feedback to change workflows to improve patient safety.
 
