@@ -2,7 +2,7 @@
 
 Back to the main page: https://ebmgt.github.io/ESG
 
-The plot below adds large healthcare institutions to the Google-Microsoft plot. Does this plot show that ESG reporting can identify healthcare institutions with successful workforce environments?
+The plot below adds large healthcare institutions to the Google-Microsoft plot. Does this plot show that ESG reporting, or internal reporting if accompanied by interventions, can identify healthcare institutions with successful workforce environments?
 
 ### The Mayo Clinic data is plausible
 While the quality of the Glassdoor data can be challenged due to the representativeness of the volunteer respondents, the non-specifity of what is being measured, and other concerns, the Mayo Clinic rankings are plausible and the results suggest the Mayo Clinic, like Google and Microsoft, required a similar number of years after introducing major organizational change before positive impact on Glassdoor rankings occurred.
@@ -17,8 +17,10 @@ According to a report by Shanafelt and Noseworthy in 2017, the Mayo Clinic start
 > “Fundamentally, you manage what you measure,” argues Mayo Clinic President and Chief Executive Officer John Noseworthy. “CEO performance scorecards always include financial and quality measures, but mine also has staff engagement, satisfaction, and burnout measures that are reported up to the board of trustees.”
 ([Wright and Katz, 2018](https://pubmed.gov/29365301))
 
-
 Shanafelt left the Mayo Clinic in 2017 and Noseworthy retired in 2018.
+
+### St Jude efforts
+Less information about efforts within St Jude is available. There are two descriptive studies (Blazin et al. JCO Oncol Pract. 2021 PMID: [33720755](HTTP://pubmed.gov/33720755); Dunn et al. Pediatr Blood Cancer. 2021 PMID: [34227729](HTTP://pubmed.gov/34227729)) and one intervention study (Raney et alL. JCO Oncol Pract. 2020 PMID: [32758084](HTTP://pubmed.gov/32758084)).
 
   ![Glassdoor](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-no_healthcare-2023-07-19.png)
 
