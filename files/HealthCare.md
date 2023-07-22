@@ -6,14 +6,16 @@ https://fortune.com/ranking/best-companies/2016/search/
 https://fortune.com/ranking/best-companies/2019/st-jude-childrens-research-hospital/ 
 https://www.greatplacetowork.com/certified-company/14 - requires an application ???
 https://www.glassdoor.com/Award/Top-CEOs-LST_KQ0,8.htm
+
+Does this plot show that ESG reporting, or internal reporting if accompanied by focused departmental and management support, can identify healthcare institutions with successful workforce environments?
 -->
 
 Back to the main page: https://ebmgt.github.io/ESG
 
-The plot below adds large healthcare institutions to the Google-Microsoft plot. Does this plot show that ESG reporting, or internal reporting if accompanied by interventions, can identify healthcare institutions with successful workforce environments?
+The plot at the bottom of this page adds large healthcare institutions to the Google-Microsoft plot. 
 
 ### The Mayo Clinic data is plausible
-While the quality of the Glassdoor data can be challenged due to the representativeness of the volunteer respondents, the non-specifity of what is being measured, and other concerns, the Mayo Clinic rankings are plausible and the results suggest the Mayo Clinic, like Google and Microsoft, required a similar number of years after introducing major organizational change before positive impact on Glassdoor rankings occurred.
+While the quality of the Glassdoor data can be challenged due to the representativeness of the volunteer respondents, the non-specificity of what is being measured, and other concerns, the Mayo Clinic rankings are plausible and the results suggest the Mayo Clinic, like Google and Microsoft, required a similar number of years after introducing major organizational change before positive impact on Glassdoor rankings occurred.
 
 According to a report by Shanafelt and Noseworthy in 2017, the Mayo Clinic started serially measuring well-being in 2010 and implemented hotspotting to help selected departments:
 > We began systematically measuring burnout using standardized instruments in 2010. We also regularly measure engagement and satisfaction with work-life integration.
