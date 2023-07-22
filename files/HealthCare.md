@@ -1,5 +1,13 @@
 # ESG and healthcare
 
+<!--
+Other data sources:
+https://fortune.com/ranking/best-companies/2016/search/
+https://fortune.com/ranking/best-companies/2019/st-jude-childrens-research-hospital/ 
+https://www.greatplacetowork.com/certified-company/14 - requires an application ???
+https://www.glassdoor.com/Award/Top-CEOs-LST_KQ0,8.htm
+-->
+
 Back to the main page: https://ebmgt.github.io/ESG
 
 The plot below adds large healthcare institutions to the Google-Microsoft plot. Does this plot show that ESG reporting, or internal reporting if accompanied by interventions, can identify healthcare institutions with successful workforce environments?
@@ -20,7 +28,9 @@ According to a report by Shanafelt and Noseworthy in 2017, the Mayo Clinic start
 Shanafelt left the Mayo Clinic in 2017 and Noseworthy retired in 2018.
 
 ### St Jude efforts
-Less information about efforts within St Jude is available. There are two descriptive studies (Blazin et al. JCO Oncol Pract. 2021 PMID: [33720755](HTTP://pubmed.gov/33720755); Dunn et al. Pediatr Blood Cancer. 2021 PMID: [34227729](HTTP://pubmed.gov/34227729)) and one intervention study (Raney et alL. JCO Oncol Pract. 2020 PMID: [32758084](HTTP://pubmed.gov/32758084)).
+Less information about efforts within St Jude is available. There are two descriptive studies (Blazin et al. JCO Oncol Pract. 2021 PMID: [33720755](HTTP://pubmed.gov/33720755); Dunn et al. Pediatr Blood Cancer. 2021 PMID: [34227729](HTTP://pubmed.gov/34227729)) and one intervention study (Raney et alL. JCO Oncol Pract. 2020 PMID: [32758084](HTTP://pubmed.gov/32758084)). In addition, in 2017 the AHRQ reported that St Jude used an AHRQ survey to gather workforce feedback to change workflows to improve patient safety ([AHRQ link](https://www.ahrq.gov/news/newsroom/case-studies/201709.html)).
+
+St Jude appointed a new CEO, James Downing, in 2014 and he was rated as the #5 CEO by Glassdoor in 2018 ([Glassdoor link](https://www.glassdoor.com/employers/blog/top-ceos-2018/)). At that time, St Jude noted "Under Downing’s leadership, St. Jude has increased employee feedback channels and forums, resulting in more innovation and connectivity across the Memphis-based campus. Downing leads monthly Town Hall and Blueprint Series all-employee meeting opportunities that encourage employees to share ideas and connect with leadership"([St Jude link](https://www.stjude.org/media-resources/news-releases/2018-medicine-science-news/st-jude-ceo-james-downing-ranked-no-5-of-glassdoors-top-100-ceos.html)). In 2015, St Jude started expanding the workforce size ([St Jude link](https://www.stjude.org/media-resources/news-releases/2019-medicine-science-news/st-jude-named-to-fortune-magazines-100-best-companies-to-work-for-for-ninth-consecutive-year.html)).
 
   ![Glassdoor](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-no_healthcare-2023-07-19.png)
 
