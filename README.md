@@ -11,7 +11,7 @@ Below is a plot of Glassdoor rankings by employees of two large companies that s
 * To add large healthcare institutions to the plot, click [here](https://github.com/ebmgt/ESG/blob/main/files/HealthCare.md). Although some healthcare organizations have had intermittent success with rankings, none have sustained their success.
 * To add profit margins to Google & Microsoft, click [here](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-profit_margins-no_healthcare-2023-07-15.png). This plot suggests that addressing workforce well-being is not a zero-sum conflict with profit. 
 
-  ![Glassdoor](../main/files/Plot-Glassdoor-2023-07-20.png)
+  ![Glassdoor](../main/files/Plot-Glassdoor-2023-08-19.png)
 
 Per https://www.sasb.org, metrics are:
 * The entity shall separately disclose voluntary and involuntary employee turnover for physicians, for non-physician health care practitioners, and for all other employees.
