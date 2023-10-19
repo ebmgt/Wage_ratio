@@ -14,7 +14,7 @@ Back to the main page: https://ebmgt.github.io/ESG
 
 The plot at the bottom of this page adds large healthcare institutions to the Google-Microsoft plot. 
 
-### The Mayo Clinic data is plausible
+### The Mayo Clinic data interventions in a large clinical setting
 #### CEO change and hotspotting to identify and help units with low well-being within a large healthcare system
 While the quality of the Glassdoor data can be challenged due to the representativeness of the volunteer respondents, the non-specificity of what is being measured, and other concerns, the Mayo Clinic rankings are plausible and the results suggest the Mayo Clinic, like Google and Microsoft, required a similar number of years after introducing major organizational change before positive impact on Glassdoor rankings occurred.
 
@@ -32,7 +32,7 @@ In 2014, the Mayo Clinic entered the Glassdoor top 50 ranking (see chart below).
 
 Shanafelt left the Mayo Clinic in 2017 and Noseworthy retired in 2018.
 
-### St Jude data is plausible
+### St Jude data interventions in a much smaller clinical setting
 #### CEO change and structured monthly soliciting, prioritizing, and responses to issues submitted by employees within a small, single hospital
 St Jude appointed a new CEO, James Downing, in 2014. In 2015, the [2016-2015 strategic](https://www.stjude.org/content/dam/en_US/shared/www/about-st-jude/st-jude-strategic-plan-2015-external.pdf) plan noted:
 > The CEO will initiate monthly town hall meetings to solicit input on key institutional efforts and issues. This new program will incorporate a page on the St. Jude intranet for employees to submit questions, rank the priority of the questions and see what questions will be discussed at upcoming town hall meetings.
