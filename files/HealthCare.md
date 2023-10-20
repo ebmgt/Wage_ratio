@@ -51,6 +51,6 @@ In 2019, the burnout rate rose and in 2019, the Glassdoor ranking for St Jude fe
 
 Probably not influencing rates of burnout at St Jude because of lack of temporal association, St Jude started using the AHRQ SOPS Hospital Survey in 2009 and biennially since ([AHRQ reports](https://www.ahrq.gov/news/newsroom/case-studies/cquips1402.html); [St Jude website](https://www.stjude.org/treatment/services/clinics-and-services/patient-safety.html)). In 2017 the [AHRQ reported](https://www.ahrq.gov/news/newsroom/case-studies/201709.html) that St Jude used AHRQ SOPS Hospital Survey to gather workforce feedback to change workflows to improve patient safety.
 
-  ![Glassdoor](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-healthcare-2023-08-24.png)
+  ![Glassdoor](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-healthcare-2023-10-20.png)
 
 More items should be measured. Suggestions, with national benchmarks for key measures, are at https://ebmgt.github.io/survey-inventory/
