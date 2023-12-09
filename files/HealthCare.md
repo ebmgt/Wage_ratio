@@ -21,8 +21,8 @@ While the quality of the Glassdoor data can be challenged due to the representat
 According to a report by Shanafelt and Noseworthy in 2017, the Mayo Clinic started serially measuring well-being in 2010 and implemented hotspotting to help selected departments:
 > We began systematically measuring burnout using standardized instruments in 2010. We also regularly measure engagement and satisfaction with work-life integration.
 > Historically, we assessed these dimensions every 24 months, but we switched to annual assessment in 2016.
-> We benchmark these measures against national data and use the information as a barometer of organizational health...
-> Although anonymous at the level of the individual, results are aggregated at the work unit level (eg, division/department) to allow executive leadership to focus attention and resources where they are most needed.
+> We benchmark these measures against national data and use the information as a barometer of organizational health...Although anonymous at the level of the individual, results are aggregated at the work unit level (eg, division/department) to allow executive leadership to focus attention and resources where they are most needed ([Shanafelt & Noseworthy, 2017](https://pubmed.gov/27871627)).
+> Among the 7 Mayo Clinic work units with analyzable data that went through this process after the 2013 survey...6 of these 7 work units no longer met the criteria initially used to identify high-opportunity work units. 
  ([Shanafelt & Noseworthy, 2017](https://pubmed.gov/27871627))
 
 > “Fundamentally, you manage what you measure,” argues Mayo Clinic President and Chief Executive Officer John Noseworthy. “CEO performance scorecards always include financial and quality measures, but mine also has staff engagement, satisfaction, and burnout measures that are reported up to the board of trustees.”
