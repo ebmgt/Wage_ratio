@@ -1,4 +1,4 @@
-# ESG and healthcare
+# Measurement-guided support of workforce well-being
 
 <!--
 Other data sources:
@@ -12,9 +12,13 @@ Does this plot show that ESG reporting, or internal reporting if accompanied by 
 
 Back to the main page: https://ebmgt.github.io/ESG
 
-The plot at the bottom of this page adds large healthcare institutions to the Google-Microsoft plot. 
+Below is a plot of Glassdoor rankings by employees of two large companies, ${\color{green}Google}$ and ${\color{blue}Microsoft}$, that serially measure well-being.  In addition, the three healthcare organizations that achieved successive years in the Glassdorr top 50 are added. 
 
-### The Mayo Clinic data interventions in a large clinical setting
+The plots suggest that several years are needed between large organizational changes, such as the launch of ${\color{green}Googlegeist}$ surveys at Google and the arrival of ${\color{blue}Satya\ Nadella}$ at Microsoft, before large changes in employee reaction. Note that Microsoft started measuring their well-being sometime between Ballmer leaving in 2014 and 2020 when they first publicly released results.
+
+The plot also adds the at the bottom of this page adds large healthcare institutions to the Google-Microsoft plot. 
+
+### The Mayo Clinic measurement-guided interventions in a large clinical setting
 #### CEO change and hotspotting to identify and help units with low well-being within a large healthcare system
 While the quality of the Glassdoor data can be challenged due to the representativeness of the volunteer respondents, the non-specificity of what is being measured, and other concerns, the Mayo Clinic rankings are plausible and the results suggest the Mayo Clinic, like Google and Microsoft, required a similar number of years after introducing major organizational change before positive impact on Glassdoor rankings occurred.
 
@@ -33,7 +37,7 @@ In 2014, the Mayo Clinic entered the Glassdoor top 50 ranking (see chart below).
 
 Shanafelt left the Mayo Clinic in 2017 and Noseworthy retired in 2018.
 
-### St Jude data interventions in a much smaller clinical setting
+### St Jude data interventions without measurement in a much smaller clinical setting
 #### CEO change and structured monthly soliciting, prioritizing, and responses to issues submitted by employees within a small, single hospital
 St Jude appointed a new CEO, James Downing, in 2014. In 2015, the [2016-2015 strategic](https://www.stjude.org/content/dam/en_US/shared/www/about-st-jude/st-jude-strategic-plan-2015-external.pdf) plan noted:
 > The CEO will initiate monthly town hall meetings to solicit input on key institutional efforts and issues. This new program will incorporate a page on the St. Jude intranet for employees to submit questions, rank the priority of the questions and see what questions will be discussed at upcoming town hall meetings.
@@ -51,6 +55,9 @@ In 2019, the burnout rate rose and in 2019, the Glassdoor ranking for St Jude fe
 * 43% by the SIBOQ embedded in a Mini-Z survey of physicians. This equals an MBI rate of about 50% ([conversion details](https://ebmgt.github.io/well-being_measurement/)). (Raney et alL. JCO Oncol Pract. 2020 PMID: [32758084](HTTP://pubmed.gov/32758084)).
 
 Probably not influencing rates of burnout at St Jude because of lack of temporal association, St Jude started using the AHRQ SOPS Hospital Survey in 2009 and biennially since ([AHRQ reports](https://www.ahrq.gov/news/newsroom/case-studies/cquips1402.html); [St Jude website](https://www.stjude.org/treatment/services/clinics-and-services/patient-safety.html)). In 2017 the [AHRQ reported](https://www.ahrq.gov/news/newsroom/case-studies/201709.html) that St Jude used AHRQ SOPS Hospital Survey to gather workforce feedback to change workflows to improve patient safety.
+
+### Sloan-Kettering 2014-2015
+Sloan-Kettering was the only other healthcare care organization to have successive years in the Glassdoor top 50 ranking. It is unclear what may have caused this during those two years.
 
   ![Glassdoor](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-healthcare-2023-10-20.png)
 
