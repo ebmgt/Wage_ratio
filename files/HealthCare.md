@@ -12,7 +12,7 @@ Does this plot show that ESG reporting, or internal reporting if accompanied by 
 
 Back to the main page: https://ebmgt.github.io/ESG
 
-Below is a plot of Glassdoor rankings by employees of:
+At the bottom of this page is a plot of Glassdoor rankings by employees of:
 * Two large companies, ${\color{green}Google}$ and ${\color{blue}Microsoft}$, that serially measure well-being.
 * The three healthcare organizations that achieved successive years in the Glassdoor top 50. The Mayo Clinic story is instructive and detailed below.
 
