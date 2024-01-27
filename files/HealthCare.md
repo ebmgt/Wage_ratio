@@ -12,9 +12,9 @@ Does this plot show that ESG reporting, or internal reporting if accompanied by 
 
 Back to the main page: https://ebmgt.github.io/ESG
 
-At the bottom of this page is a plot of Glassdoor rankings by employees of:
+At the bottom of this page is a plot of [Glassdoor rankings](https://www.glassdoor.com/Award/Best-Places-to-Work-LST_KQ0,19.htm) by employees of:
 * Two large companies, ${\color{green}Google}$ and ${\color{blue}Microsoft}$, that serially measure well-being.
-* The three healthcare organizations that achieved successive years in the Glassdoor top 50. The Mayo Clinic story is instructive and detailed below.
+* The three healthcare organizations that achieved successive years in the Glassdoor top 50. The Mayo Clinic story is instructive and available details are below.
 
 The plots suggest that several years are needed between large organizational changes, such as the launch of ${\color{green}Googlegeist}$ surveys at Google and the arrival of ${\color{blue}Satya\ Nadella}$ at Microsoft, before large changes in employee reaction. The Google story was been detailed ([Bock, 2015](https://search.worldcat.org/search?q=1-4447-9238-5); [Garvin, 2012](https://www.hbs.edu/faculty/Pages/item.aspx?num=44657)). The Microsoft story is complicated as they have had a People Analytics team since the early 2000s ([reference](https://www.myhrfuture.com/digital-hr-leaders-podcast/2019/11/19/the-evolution-of-people-analytics-at-microsoft])) but starting approximately 2002 ([reference](https://www.vanityfair.com/news/business/2012/08/microsoft-lost-mojo-steve-ballmer)) their focus included the toxic Stack Ranking of employees. Microsoft started their focus on well-being sometime between Ballmer's leaving in 2014 and 2020 when Microsoft first publicly released results. Then in 2022, Microsoft added the measurement of thriving to their existing measurement of engagement. Microsoft based this goal on the work of Spreitzer, who defined thriving as "a sense of vitality and learning" ([reference](https://doi.org/10.1002%2Fjob.756)) while Microsoft modified the definition to “be energized and empowered to do meaningful work” ([reference](https://hbr.org/2022/06/why-microsoft-measures-employee-thriving-not-engagement))
 
