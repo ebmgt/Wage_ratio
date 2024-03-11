@@ -13,6 +13,15 @@ Below is a plot of Glassdoor rankings by employees of two large companies that s
 
   ![Glassdoor](../main/files/Plot-Glassdoor-2023-08-19.png)
 
+### Google's Project Oxygen
+Content pending.
+
+### The Microsoft measurement-guided interventions
+#### CEO change and hotspotting to identify and help units with low "thriving"
+In this example, Microsoft used employee surveys to identify a hot-spot within their organization that needed help, but then Microsoft pursued non-survey data to find the solution.
+> It came in the form of extensive surveys Microsoft used to monitor employees’ attitudes....Employees reported being much less satisfied with their work-life balance than their counterparts elsewhere at the company....the ability to collect and analyze vast amounts of data about how people work, and what makes a manager effective — would turn out to hold the solution ([The New York Times, 2019]([https://pubmed.gov/27871627](https://www.nytimes.com/2019/06/15/upshot/how-to-win-neil-irwin.html))). 
+
+### ESG metrics
 Per https://www.sasb.org, metrics are:
 * The entity shall separately disclose voluntary and involuntary employee turnover for physicians, for non-physician health care practitioners, and for all other employees.
 * For each category of employees, the entity shall disclose the annual voluntary turnover.
