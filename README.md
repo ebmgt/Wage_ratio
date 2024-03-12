@@ -15,7 +15,7 @@ Below is a plot of Glassdoor rankings by employees of two large companies that s
 
 ### Google's measurement-guided interventions
 #### Brightspotting to identify tactics of great managers: Google's Project Oxygen
-> Content pending. ([Bock, 2016](https://search.worldcat.org/search?q=1-4447-9238-5); [Garvin, HBR, 2018](https://hbr.org/2013/12/how-google-sold-its-engineers-on-management); [Garvin, HBS, 2018](https://www.hbs.edu/faculty/Pages/item.aspx?num=44657))
+> Content pending for Googlegeist. ([Bock, 2016](https://search.worldcat.org/search?q=1-4447-9238-5); [Garvin, HBR, 2018](https://hbr.org/2013/12/how-google-sold-its-engineers-on-management); [Garvin, HBS, 2018](https://www.hbs.edu/faculty/Pages/item.aspx?num=44657))
 
 ### Microsoft's measurement-guided interventions
 #### Brightspotting to identify tactics of great managers
