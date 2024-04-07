@@ -33,9 +33,14 @@ According to a report by Shanafelt and Noseworthy in 2017, the Mayo Clinic start
 > “Fundamentally, you manage what you measure,” argues Mayo Clinic President and Chief Executive Officer John Noseworthy. “CEO performance scorecards always include financial and quality measures, but mine also has staff engagement, satisfaction, and burnout measures that are reported up to the board of trustees.”
 ([Wright & Katz, 2018](https://pubmed.gov/29365301))
 
+The Mayo Clinic also learned from their bright spots.
+
+> "...we doubled down on lessons from departments that had done well with leadership development so we could make that an institutional model."
+([Swensen, 2020](https://www.acr.org/-/media/ACR/Files/RLI/Podcasts/Episode-25-Swensen-Final-Transcript.pdf))
+
 In 2014, the Mayo Clinic entered the Glassdoor top 50 ranking (see chart below). The burnout rate among physicians in the Mayo Clinic for 2016 was 33% by Maslach Burnout Inventory (high EE or high DP subscale) (Shanafelt. Mayo Clin Proc. 2017 PMID: [27871627](HTTP://pubmed.gov/27871627)).
 
-Shanafelt left the Mayo Clinic in 2017 and Noseworthy retired in 2018.
+Shanafelt left the Mayo Clinic in 2017, Noseworthy retired in 2018, and Swensen became Professor Emeritus in 2018. <!-- https://moln.org/news/431461/Nurses-as-Leaders-Broad-Acceptance-Room-to-Grow.htm -->
 
 ### St Jude data interventions without measurement in a much smaller clinical setting
 #### CEO change and structured monthly soliciting, prioritizing, and responses to issues submitted by employees within a small, single hospital
