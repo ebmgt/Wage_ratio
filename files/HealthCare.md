@@ -42,7 +42,11 @@ In 2014, the Mayo Clinic entered the Glassdoor top 50 ranking (see chart below).
 
 Shanafelt left the Mayo Clinic in 2017, Noseworthy retired in 2018, and Swensen became Professor Emeritus in 2018. <!-- https://moln.org/news/431461/Nurses-as-Leaders-Broad-Acceptance-Room-to-Grow.htm -->
 
-### St Jude data interventions without measurement in a much smaller clinical setting
+### St Jude data interventions
+St Jude is a much smaller clinical site than the Mayo Clinic and has less than 80 beds ([source](https://www.stjude.org/about-st-jude/unique-operating-model.html#:~:text=As%20one%20of%20the%20largest,since%20we%20opened%20the%20hospital)).
+
+St Jude began participation in the annual [survey of Great Places to work](https://fortune.com/franchise-list-page/best-companies-2024-methodology/) in approximately 2010 ([source](https://www.stjude.org/media-resources/news-releases/2019-medicine-science-news/st-jude-named-to-fortune-magazines-100-best-companies-to-work-for-for-ninth-consecutive-year.html)). The survey methods are overviewed at https://www.greatplacetowork.com/solutions/employee-surveys. 
+
 #### CEO change and structured monthly soliciting, prioritizing, and responses to issues submitted by employees within a small, single hospital
 St Jude appointed a new CEO, James Downing, in 2014. In 2015, the [2016-2015 strategic](https://www.stjude.org/content/dam/en_US/shared/www/about-st-jude/st-jude-strategic-plan-2015-external.pdf) plan noted:
 > The CEO will initiate monthly town hall meetings to solicit input on key institutional efforts and issues. This new program will incorporate a page on the St. Jude intranet for employees to submit questions, rank the priority of the questions and see what questions will be discussed at upcoming town hall meetings.
@@ -62,7 +66,7 @@ In 2019, the burnout rate rose and in 2019, the Glassdoor ranking for St Jude fe
 Probably not influencing rates of burnout at St Jude because of lack of temporal association, St Jude started using the AHRQ SOPS Hospital Survey in 2009 and biennially since ([AHRQ reports](https://www.ahrq.gov/news/newsroom/case-studies/cquips1402.html); [St Jude website](https://www.stjude.org/treatment/services/clinics-and-services/patient-safety.html)). In 2017 the [AHRQ reported](https://www.ahrq.gov/news/newsroom/case-studies/201709.html) that St Jude used AHRQ SOPS Hospital Survey to gather workforce feedback to change workflows to improve patient safety.
 
 ### Sloan-Kettering 2014-2015
-Sloan-Kettering was the only other healthcare care organization to have successive years in the Glassdoor top 50 ranking. It is unclear what may have caused this during those two years.
+Sloan-Kettering had successive years in the Glassdoor top 50 ranking. It is unclear what may have caused this during those two years.
 
   ![Glassdoor](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-healthcare-2023-10-20.png)
 
