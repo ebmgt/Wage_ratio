@@ -68,6 +68,6 @@ Probably not influencing rates of burnout at St Jude because of lack of temporal
 ### Sloan-Kettering 2014-2015
 Sloan-Kettering had successive years in the Glassdoor top 50 ranking. It is unclear what may have caused this during those two years.
 
-  ![Glassdoor](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-healthcare-2023-10-20.png)
+  ![Glassdoor](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-healthcare-2024-04-22.png)
 
 More items should be measured. Suggestions, with national benchmarks for key measures, are at https://ebmgt.github.io/survey-inventory/
