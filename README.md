@@ -18,6 +18,8 @@ Below is a plot of Glassdoor rankings by employees of two large companies that s
 > Content pending for Googlegeist. ([Bock, 2016](https://search.worldcat.org/search?q=1-4447-9238-5); [Garvin, HBR, 2018](https://hbr.org/2013/12/how-google-sold-its-engineers-on-management); [Garvin, HBS, 2018](https://www.hbs.edu/faculty/Pages/item.aspx?num=44657))
 
 ### Microsoft's measurement-guided interventions
+> I said earlier that culture can be a vague, amorphous term. That’s why we worked so carefully to define the culture we wanted. And it’s why we measure everything. When it comes to humans, data is not perfect, but we can’t monitor what we can’t measure. So, we routinely survey employees to take their pulse. After three years of intensive focus on culture-building we began to see some encouraging results. Employees told us they felt the company was heading in the right direction. ([Nadella et al, p117. 2017](https://search.worldcat.org/search?q=9780062959720&offset=1))
+
 #### Brightspotting to identify tactics of great managers
 > Over the years, I’ve heard a lot of anecdotes about "what makes a great manager." And while many of those anecdotes are logical, it wasn't until recently that the HR Business Insights team at Microsoft has been able to use data to quantify some of these hypotheses ([Klinghoffer, 2018](https://www.linkedin.com/pulse/managers-like-box-chocolates-dawn-klinghoffer/))
 
