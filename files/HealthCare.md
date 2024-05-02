@@ -48,7 +48,7 @@ St Jude is a much smaller clinical site than the Mayo Clinic and has less than 8
 St Jude began participation in the annual [survey of Great Places to work](https://fortune.com/franchise-list-page/best-companies-2024-methodology/) in approximately 2010 ([source](https://www.stjude.org/media-resources/news-releases/2019-medicine-science-news/st-jude-named-to-fortune-magazines-100-best-companies-to-work-for-for-ninth-consecutive-year.html)). The survey methods are overviewed at https://www.greatplacetowork.com/solutions/employee-surveys. 
 
 #### CEO change and structured monthly soliciting, prioritizing, and responses to issues submitted by employees within a small, single hospital
-St Jude appointed a new CEO, James Downing, in 2014. In 2015, the [2016-2015 strategic](https://www.stjude.org/content/dam/en_US/shared/www/about-st-jude/st-jude-strategic-plan-2015-external.pdf) plan noted:
+St Jude appointed a new CEO, James Downing, in 2014. In 2015, the [2016-2021 strategic](https://www.stjude.org/content/dam/en_US/shared/www/about-st-jude/st-jude-strategic-plan-2015-external.pdf) plan noted:
 > The CEO will initiate monthly town hall meetings to solicit input on key institutional efforts and issues. This new program will incorporate a page on the St. Jude intranet for employees to submit questions, rank the priority of the questions and see what questions will be discussed at upcoming town hall meetings.
 
 Also relevant to the [job demands-resources model of burnout](http://doi.wiley.com/10.1002/job.248]), in 2015 St Jude started expanding the workforce size ([St Jude link](https://www.stjude.org/media-resources/news-releases/2019-medicine-science-news/st-jude-named-to-fortune-magazines-100-best-companies-to-work-for-for-ninth-consecutive-year.html)).
@@ -56,7 +56,7 @@ Also relevant to the [job demands-resources model of burnout](http://doi.wiley.c
 In 2018, St Jude entered the Glassdoor top 50 ranking (see chart below) and Downing was rated as the #5 CEO by Glassdoor ([Glassdoor link](https://www.glassdoor.com/employers/blog/top-ceos-2018/)) According to a St Jude [news release](https://www.stjude.org/media-resources/news-releases/2018-medicine-science-news/st-jude-ceo-james-downing-ranked-no-5-of-glassdoors-top-100-ceos.html) noted
 > "Under Downing’s leadership, St. Jude has increased employee feedback channels and forums, resulting in more innovation and connectivity across the Memphis-based campus. Downing leads monthly Town Hall and Blueprint Series all-employee meeting opportunities that encourage employees to share ideas and connect with leadership."
 
-Accordingly, two publications of burunout rates in St Jude reported low rates in 2018:
+Accordingly, two publications of burnout rates in St Jude reported low rates in 2018:
 * 28% by Maslach Burnout Inventory (high EE or high DP subscale) of 53 attending physicians in 2018 (Blazin et al. JCO Oncol Pract. 2021 PMID: [33720755](HTTP://pubmed.gov/33720755)).
 * 34% by Maslach Burnout Inventory (high EE or high DP or high PA subscale) in 2018 among 65 physicians.  20% to 33% among other clinical staff groups (Dunn et al. Pediatr Blood Cancer. 2021 PMID: [34227729](HTTP://pubmed.gov/34227729))
 
