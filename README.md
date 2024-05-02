@@ -2,16 +2,14 @@
 
 Short url to this folder: https://ebmgt.github.io/ESG
 
-ESG stands for Environmental, social and corporate governance ([details](https://www.wikidoc.org/index.php/Industrial_and_organizational_psychology#Environmental,_social_and_corporate_governance_(ESG)]))
+ESG stands for Environmental, social and corporate governance and was initially promoted by U.N. Secretary General Kofi Annan ([details](https://www.wikidoc.org/index.php/Industrial_and_organizational_psychology#Environmental,_social_and_corporate_governance_(ESG)])). Regarding "Social" this includes workforce conditions. Below the plot are descriptions of Google's and Microsoft's measurment-guided interventions.
 
-* Regarding "Social" this includes workforce conditions.
-
-Below is a plot of Glassdoor rankings by employees of two large companies that serially measure well-being. Note that Microsoft started measuring their well-being sometime between Ballmer leaving in 2014 and 2020 when they first publicly released results. The plots suggest that several years are needed between large organizational changes, such as the launch of ${\color{green}Googlegeist}$ at Google and the arrival of ${\color{blue}Satya\ Nadella}$ at Microsoft, before large changes in employee reaction.
-
-* To add profit margins to Google & Microsoft, click [here](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-profit_margins-2024-03-09.png). This plot suggests that addressing workforce well-being does not conflict with profit. 
 * ***To add large healthcare institutions to the plot, click [here](https://github.com/ebmgt/ESG/blob/main/files/HealthCare.md)***. The experience at the Mayo Clinic supports the work of Google and Microsoft.
+* To add profit margins to Google & Microsoft, click [here](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-profit_margins-2024-03-09.png). This plot suggests that addressing workforce well-being does not conflict with profit.
 
   ![Glassdoor](../main/files/Plot-Glassdoor-2024-04-22.png)
+
+Below is a plot of Glassdoor rankings by employees of two large companies that serially measure well-being. 
 
 ### Google's measurement-guided interventions
 >  ...you could set yourself out to remake the culture of your company and over a few years, with the support of the CEO, the board, or whatever, you could actually do this. ([Schmidt and Bock, 2017](https://www.youtube.com/watch?v=Qbwq5it78_A}))
