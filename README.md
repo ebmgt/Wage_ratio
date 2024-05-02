@@ -4,7 +4,7 @@ Short url to this folder: https://ebmgt.github.io/ESG
 
 ESG stands for Environmental, social and corporate governance and the importance of these factors was initially promoted by U.N. Secretary General Kofi Annan ([details](https://www.wikidoc.org/index.php/Industrial_and_organizational_psychology#Environmental,_social_and_corporate_governance_(ESG))). "Social" includes workforce conditions. 
 
-[Glassdoor’s Best Places to Work](https://www.glassdoor.com/Award) data allows identifying companies that are successful with their workforces.  The plot shows that Google and Microsoft are two examples of sucess. Below the plot are descriptions of Google's and Microsoft's measurement-guided interventions to optimize their workplaces.
+[Glassdoor’s Best Places to Work](https://www.glassdoor.com/Award) data allows identifying companies that are successful with their workforces.  The plot shows that Google and Microsoft are two examples. Below the plot are descriptions of Google's and Microsoft's measurement-guided interventions to optimize their workplaces.
 
 * ***To add large healthcare institutions to the plot, click [here](https://github.com/ebmgt/ESG/blob/main/files/HealthCare.md)***. The experience at the Mayo Clinic supports the work of Google and Microsoft.
 * To add profit margins to Google & Microsoft, click [here](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-profit_margins-2024-03-09.png). This plot suggests that addressing workforce well-being does not conflict with profit.
