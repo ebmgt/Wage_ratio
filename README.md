@@ -11,8 +11,6 @@ ESG stands for Environmental, social and corporate governance and the importance
 
   ![Glassdoor](../main/files/Plot-Glassdoor-2024-04-22.png)
 
-Below is a plot of Glassdoor rankings by employees of two large companies that serially measure well-being. 
-
 ### Google's measurement-guided interventions
 
 #### Brightspotting to identify tactics of great managers: Google's Project Oxygen
@@ -28,7 +26,7 @@ Below is a plot of Glassdoor rankings by employees of two large companies that s
 > I said earlier that culture can be a vague, amorphous term. That’s why we worked so carefully to define the culture we wanted. And it’s why we measure everything. When it comes to humans, data is not perfect, but we can’t monitor what we can’t measure. So, we routinely survey employees to take their pulse. After three years of intensive focus on culture-building we began to see some encouraging results. Employees told us they felt the company was heading in the right direction. ([Nadella [CEO of Microsoft] et al, p117. 2017](https://search.worldcat.org/search?q=9780062959720&offset=1))
 
 #### Brightspotting to identify tactics of great managers
-> Over the years, I’ve heard a lot of anecdotes about "what makes a great manager." And while many of those anecdotes are logical, it wasn't until recently that the HR Business Insights team at Microsoft has been able to use data to quantify some of these hypotheses ([Klinghoffer, 2018](https://www.linkedin.com/pulse/managers-like-box-chocolates-dawn-klinghoffer/))
+> Over the years, I’ve heard a lot of anecdotes about "what makes a great manager." And while many of those anecdotes are logical, it wasn't until recently that the HR Business Insights team at Microsoft has been able to use data to quantify some of these hypotheses ([Klinghoffer [Vice President, HR Business Insights at Microsoft], 2018](https://www.linkedin.com/pulse/managers-like-box-chocolates-dawn-klinghoffer/))
 
 #### Hotspotting to identify and help units with low "thriving"
 In this example, Microsoft used employee surveys to identify a hot-spot within their organization that needed help, but then Microsoft pursued non-survey data to find the solution.
