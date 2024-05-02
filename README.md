@@ -7,7 +7,7 @@ ESG stands for Environmental, social and corporate governance and the importance
 [Glassdoor’s Best Places to Work](https://www.glassdoor.com/Award) data allows identifying companies that are successful with their workforces.  The plot shows that Google and Microsoft are two examples. Below the plot are descriptions of Google's and Microsoft's measurement-guided interventions to optimize their workplaces.
 
 * ***To add large healthcare institutions to the plot, click [here](https://github.com/ebmgt/ESG/blob/main/files/HealthCare.md)***. The experience at the Mayo Clinic supports the work of Google and Microsoft.
-* To add profit margins to Google & Microsoft, click [here](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-profit_margins-2024-03-09.png). This plot suggests that addressing workforce well-being does not conflict with profit.
+* To add profit margins to Google & Microsoft, click [here](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-profit_margins-2024-05-02.png). This plot suggests that addressing workforce well-being does not conflict with profit.
 
   ![Glassdoor](../main/files/Plot-Glassdoor-2024-05-02.png)
 
