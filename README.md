@@ -9,7 +9,7 @@ ESG stands for Environmental, social and corporate governance and the importance
 * ***To add large healthcare institutions to the plot, click [here](https://github.com/ebmgt/ESG/blob/main/files/HealthCare.md)***. The experience at the Mayo Clinic supports the work of Google and Microsoft.
 * To add profit margins to Google & Microsoft, click [here](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-profit_margins-2024-03-09.png). This plot suggests that addressing workforce well-being does not conflict with profit.
 
-  ![Glassdoor](../main/files/Plot-Glassdoor-2024-04-22.png)
+  ![Glassdoor](../main/files/Plot-Glassdoor-2024-05-02.png)
 
 ### Google's measurement-guided interventions
 
