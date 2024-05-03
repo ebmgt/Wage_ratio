@@ -36,7 +36,7 @@ In this example, Microsoft used employee surveys to identify a hot-spot within t
 > The first—and most important step—is to engage the CEO and the senior leadership team. Microsoft’s appointment of Satya Nadella as CEO was a significant milestone for the company, and his role in culture change has been instrumental. Having a CEO and senior leaders who champion and embody culture change helps set the tone and provides a path for employees to follow ([Hogan [Chief People Officer at Microsoft], 2017](https://www.i4cp.com/interviews/kathleen-hogan-how-microsoft-is-transforming-its-culture)).
 
 ### ESG metrics
-Per https://www.sasb.org, metrics are:
+The currently agreed upon measures are very basic. Per https://www.sasb.org, metrics are:
 * The entity shall separately disclose voluntary and involuntary employee turnover for physicians, for non-physician health care practitioners, and for all other employees.
 * For each category of employees, the entity shall disclose the annual voluntary turnover.
 * For each category of employees, the entity shall disclose the annual involuntary turnover.
