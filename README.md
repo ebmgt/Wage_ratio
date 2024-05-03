@@ -1,4 +1,4 @@
-# ESG
+# ESG: Measurement-guided support of workforce well-being
 
 Short url to this folder: https://ebmgt.github.io/ESG
 
