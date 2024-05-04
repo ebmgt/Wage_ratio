@@ -14,7 +14,7 @@ Back to the main page: https://ebmgt.github.io/ESG
 
 At the bottom of this page is a plot of [Glassdoor rankings](https://www.glassdoor.com/Award/Best-Places-to-Work-LST_KQ0,19.htm) by employees of:
 * Two large companies, ${\color{green}Google}$ and ${\color{blue}Microsoft}$, that serially measure well-being and use the results.
-* The few healthcare organizations that achieved successive years in the Glassdoor top 50. The Mayo Clinic story is instructive and available details are below.
+* The few healthcare organizations that achieved successive years in the Glassdoor top 50. The ${\color{#0151fe}Mayo}$ ${\color{#0151fe}Clinic}$  story is instructive and available details are below.
 
 The plots suggest that:
 * Several years are needed between large organizational changes, such as the launch of ${\color{green}Googlegeist}$ surveys at Google and the arrival of ${\color{blue}Satya\ Nadella}$ at Microsoft, before large changes in employee reaction. The Google story was been detailed ([Bock, 2015](https://search.worldcat.org/search?q=1-4447-9238-5); [Garvin, 2012](https://www.hbs.edu/faculty/Pages/item.aspx?num=44657)). The Microsoft story is complicated as they have had a People Analytics team since the early 2000s ([reference](https://www.myhrfuture.com/digital-hr-leaders-podcast/2019/11/19/the-evolution-of-people-analytics-at-microsoft])) but starting approximately 2002 ([reference](https://www.vanityfair.com/news/business/2012/08/microsoft-lost-mojo-steve-ballmer)) their focus included the toxic [Stack Ranking](https://en.wikipedia.org/wiki/Vitality_curve) of employees. Microsoft started their focus on well-being sometime between Ballmer's leaving in 2014 and 2020 when Microsoft first publicly released results. Then in 2022, Microsoft added the measurement of thriving to their existing measurement of engagement. Microsoft based this goal on the work of [Spreitzer](https://scholar.google.com/citations?user=CUMVmQgAAAAJ&hl=en&oi=ao), who defined thriving as "a sense of vitality and learning" ([reference](https://doi.org/10.1002%2Fjob.756)) while Microsoft modified the definition to “be energized and empowered to do meaningful work” ([reference](https://hbr.org/2022/06/why-microsoft-measures-employee-thriving-not-engagement))
@@ -27,7 +27,7 @@ While the quality of the Glassdoor data can be challenged due to the representat
 The Mayo Clinic started serially measuring well-being in 2010
 > We began systematically measuring burnout using standardized instruments in 2010...Historically, we assessed these dimensions every 24 months, but we switched to annual assessment in 2016 ([Shanafelt & Noseworthy, 2017](https://pubmed.gov/27871627)).
 
-In 2014, the Mayo Clinic entered the Glassdoor top 50 ranking (see chart below). The burnout rate among physicians in the Mayo Clinic for 2016 was 33% by Maslach Burnout Inventory (high EE or high DP subscale) (Shanafelt. Mayo Clin Proc. 2017 PMID: [27871627](HTTP://pubmed.gov/27871627)).
+In 2014, the Mayo Clinic entered the Glassdoor top 50 ranking (see chart below). The burnout rate among physicians in the Mayo Clinic for 2016 was 33% by Maslach Burnout Inventory (high EE or high DP subscale) (Shanafelt. Mayo Clin Proc. 2017 PMID: [27871627](HTTP://pubmed.gov/27871627)). The Mayo was also in the top 50 for the years 2017 (44) and 2020 (28) but these are not plotted as they are isolated years. 
 
 #### Hotspotting to identify and help less effective managers within a large healthcare system
 > Although anonymous at the level of the individual, results are aggregated at the work unit level (eg, division/department) to allow executive leadership to focus attention and resources where they are most needed ([Shanafelt & Noseworthy, 2017](https://pubmed.gov/27871627)). 
@@ -79,4 +79,4 @@ Houston Methodist has successive years in the Glassdoor top 50 ranking peaking a
 
   ![Glassdoor](https://github.com/ebmgt/ESG/blob/main/files/Plot-Glassdoor-healthcare-2024-05-02.png)
 
-More items should be measured. Suggestions, with national benchmarks for key measures, are at https://ebmgt.github.io/survey-inventory/
+More items should be measured such as antecedents of engagement and satisfaction to help focus interventions. Suggestions, with national benchmarks for key measures, are at https://ebmgt.github.io/survey-inventory/
