@@ -71,8 +71,11 @@ In 2015, the [2016-2021 strategic](https://www.stjude.org/content/dam/en_US/shar
 St Jude appointed a new CEO, James Downing, in 2014, a few years before their rise the Glassdoor rankings. According to a St Jude [news release](https://www.stjude.org/media-resources/news-releases/2018-medicine-science-news/st-jude-ceo-james-downing-ranked-no-5-of-glassdoors-top-100-ceos.html) noted
 > "Under Downing’s leadership, St. Jude has increased employee feedback channels and forums, resulting in more innovation and connectivity across the Memphis-based campus. Downing leads monthly Town Hall and Blueprint Series all-employee meeting opportunities that encourage employees to share ideas and connect with leadership."
 
-### Sloan-Kettering 2014-2015
-Sloan-Kettering had successive years in the Glassdoor top 50 ranking peaking at 20 in 2016. It is unclear what may have caused this during those two years.
+### Sloan-Kettering 2014-2019
+Sloan-Kettering had successive years in the Glassdoor top 50 ranking peaking at 20 in 2016. It is unclear what may have caused this during those years.
+* CEO: [Craig Thompson 2010-2022](https://www.mskcc.org/about/leadership/office-president/presidents-through-history)
+* HR: [Kerry Bessey 2012-2023](https://www.linkedin.com/in/nyraleigh/). [Interview](https://www.glassdoor.com/employers/blog/how-memorial-sloan-kettering-excels-at-recruiting/)
+* Events: 2019 [Chief medical officer leaves company after conflict of interest discovery](https://www.nytimes.com/2019/01/07/health/baselga-sloan-kettering-astrazeneca.html)
 
 ### Houston Methodist 2021 - present
 Houston Methodist has successive years in the Glassdoor top 50 ranking peaking at 33 in 2023. It is unclear what may have caused this during those years.
