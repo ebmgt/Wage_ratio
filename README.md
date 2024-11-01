@@ -6,6 +6,10 @@ ESG stands for Environmental, social and corporate governance and the importance
 
 A de facto of measurement of workforce conditions as part of **S**ocial is [Glassdoor’s Best Places to Work](https://www.glassdoor.com/Award) data that allows identifying companies that are successful with their workforces ([details]([https://github.com/ebmgt/Management_measurement/edit/main/README.md)).
 
+## Demonstrations using Glassdoor rankings
+* [Google and Microsoft](https://github.com/ebmgt/Management_measurement/blob/main/README.md)
+* [Healthcare](https://github.com/ebmgt/Management_measurement/blob/main/files/HealthCare.md)
+
 ## ESG metrics
 The currently agreed upon measures are very basic. Per https://www.sasb.org, metrics are (IFRS Foundation, 2023):
 * C-DY-330a.1. The entity shall separately disclose voluntary and involuntary employee turnover for physicians, for non-physician health care practitioners, and for all other employees.
