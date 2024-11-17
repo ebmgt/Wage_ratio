@@ -7,7 +7,7 @@ How are the ratios comparing to the wages across percentiles of income in the Un
 A secondary issue if the CEO pay ratio. Determining CEO worth is very difficult.
 
 Source files
-* [Code and data](../main/files/Code and data)
+* [Code and data](../main/files/Code%20and%20data)
 * [Plots](../main/files/Plots)
 
  ![Wage ratios](../main/files/Plots/Income_distribution_v3-2024-11-17.jpg)
