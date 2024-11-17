@@ -282,7 +282,7 @@ plot(
   ylim = c(0, 4),  # Fixed y-axis limits
   xlab = "Percentile",
   ylab = "Ratio of income at\nPercentile to Median",
-  main = "Income Ratio for Each Percentile to Median Distribution\nIn the U.S. Since 1970",
+  main = "Ratio for Each Income Percentile to Median Income\nIn the U.S. Since 1970",
   xaxt = "n",  # Suppress default x-axis ticks
   yaxt = "n"  # Suppress default x-axis ticks
 )
