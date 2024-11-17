@@ -1,22 +1,18 @@
-# ESG: Measurement-guided support of workforce well-being
+# Wage ratios
 
-Short url to this folder: https://ebmgt.github.io/ESG
+Short url to this folder: https://ebmgt.github.io/Wage_ratio
 
-ESG stands for Environmental, social and corporate governance and the importance of these corporate metrics was initially promoted by U.N. Secretary General Kofi Annan ([details from WikiDoc](https://www.wikidoc.org/index.php/Industrial_and_organizational_psychology#Environmental,_social_and_corporate_governance_(ESG))). "Social" includes workforce conditions. 
+How are the ratios comparing to the wages across percentiles of income in the United States to the median U.S. income vary over the years.
 
-A de facto of measurement of workforce conditions as part of **S**ocial is [Glassdoor’s Best Places to Work](https://www.glassdoor.com/Award) data that allows identifying companies that are successful with their workforces ([details]([https://github.com/ebmgt/Management_measurement/edit/main/README.md)).
+A secondary issue if the CEO pay ratio. Determining CEO worth is very difficult.
 
-## Demonstrations using Glassdoor rankings
-* [Google and Microsoft](https://github.com/ebmgt/Management_measurement/blob/main/README.md)
-* [Healthcare](https://github.com/ebmgt/Management_measurement/blob/main/files/HealthCare.md)
+Source files
+* [Code and data](../main/files/Code and data)
+* [Plots](../main/files/Plots)
 
-## ESG metrics
-The currently agreed upon measures are very basic. Per https://www.sasb.org, metrics are (IFRS Foundation, 2023):
-* C-DY-330a.1. The entity shall separately disclose voluntary and involuntary employee turnover for physicians, for non-physician health care practitioners, and for all other employees.
-* For each category of employees, the entity shall disclose the annual voluntary turnover.
-* For each category of employees, the entity shall disclose the annual involuntary turnover.
-
-More items are needed to measure. Suggestions of validated, relevant questions of workforce are at https://ebmgt.github.io/survey-inventory/ 
-
+ ![Wage ratios](../main/files/Plots/Income_distribution_v3-2024-11-17.jpg)
+ 
 ## References:
-1. IFRS Foundation. SASB Standards: Health Care Delivery Sustainability Accounting Standard. Version 2023-12. Available at https://sasb.ifrs.org/standards/download/.
+1. United States Census Bureau. Income Inequality Data Tables. Available at https://www.census.gov/topics/income-poverty/income-inequality/data/data-tables.All.List_1412438315.html
+2. Economic Policy Institute. CEO pay slightly declined in 2022. Available at https://www.epi.org/publication/ceo-pay-in-2022/#fig-a
+3. Congressional Progressive Caucus Center. The CEO Pay Problem And What We Can Do About It. Available at https://www.progressivecaucuscenter.org/the-ceo-pay-problem-and-what-we-can-do-about-it
