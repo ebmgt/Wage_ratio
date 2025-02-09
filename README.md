@@ -2,9 +2,8 @@
 
 Short url to this folder: https://ebmgt.github.io/Wage_ratio
 
-How are the ratios comparing to the wages across percentiles of income in the United States to the median U.S. income vary over the years.
-
-A secondary issue if the CEO pay ratio. Determining CEO worth is very difficult.
+How are the ratios comparing to the wages across percentiles of income in the United States to the median U.S. income vary over the years. This plot is also displayed at WikiPedia:
+* [Income inequality in the United States](https://en.wikipedia.org/wiki/Income_inequality_in_the_United_States)
 
 Source files
 * [Code and data](../main/files/Code%20and%20data)
