@@ -10,7 +10,7 @@ Source files
 * [Code and data](../main/files/Code%20and%20data)
 * [Plots](../main/files/Plots)
 
- ![Wage ratios](../main/files/Plots/Income_distribution_v3-2024-11-17.jpg)
+ ![Wage ratios](../main/files/Plots/Income_distribution_v3--2025-02-09.png)
  
 ## References:
 1. United States Census Bureau. Income Inequality Data Tables. Available at https://www.census.gov/topics/income-poverty/income-inequality/data/data-tables.All.List_1412438315.html
