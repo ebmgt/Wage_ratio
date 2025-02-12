@@ -2,7 +2,7 @@
 
 Short url to this folder: https://ebmgt.github.io/Wage_ratio
 
-How are the ratios comparing to the wages across percentiles of income in the United States to the median U.S. income vary over the years. This plot is also displayed at WikiPedia:
+How are the ratios comparing to the wages across percentiles of income in the United States to the median U.S. income vary over the years. An earlier version of this plot is also displayed at WikiPedia:
 * [Income inequality in the United States](https://en.wikipedia.org/wiki/Income_inequality_in_the_United_States)
 
 Source files
