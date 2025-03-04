@@ -88,87 +88,15 @@ function_libraries_install <- function(packages){
   #tk_messageBox(type = "ok", paste(packages, collapse="\n"), title="Packages installed")
 }
 
-current_date <- function(){
-  return (as.character(strftime (Sys.time(), format="%Y-%m-%d", tz="", usetz=FALSE)))
-}  
-
 #* Functions to show data -----
 
-function_table_nice <- function(dataframe, row_name = 'RESPONDENT_STATUS', column_name) {
-  # Make the table
-  contingency_table <- base::table(
-    dataframe[,row_name], dataframe[,column_name], 
-    dnn =  c(row_name, column_name), useNA = 'always')
+function_plot_print <- function (plotname, plotheight, plotwidth, imagetype) {
   
-  print(addmargins(contingency_table))
-  
-  # Print the column percentages
-  print (round(prop.table(contingency_table, 2) * 100,1))
-  
-  # Perform chi-square test and display results
-  chi_sq_test <- chisq.test(contingency_table)
-  print(paste("chi-square: ", chi_sq_test$statistic, " p-value: ", chi_sq_test$p.value, sep=' '))
-  
-  # Suppress warnings
-  suppressWarnings(paste("(warnings suppressed)"))
-}
-
-# Display the dataframe using your custom function with escaping disabled
-function_display_df_in_viewer <- function(df, caption) {
-  DT::datatable(df, caption = caption, options = list(pageLength = 25), escape = FALSE)
-}
-
-
-function_display_model_in_viewer <- function(model, caption) {
-  temp <- summary(model)
-  summary(model_final)
-  odds_ratios_df <- data.frame(Coefficient = round(temp$coefficients$mean[, "Estimate"],3) ,
-                               Odds_Ratio  = sprintf(temp$coefficients$mean[, "Estimate"], fmt='%#.2f'), 
-                               P.value     = sprintf(temp$coefficients$mean[, "Pr(>|z|)"], fmt='%#.3f'))
-  DT::datatable(odds_ratios_df, caption = caption, options = list(pageLength = 25))
-}
-
-# Display openxlsx worksheet in the viewer
-function_display_xlsx_in_viewer <- function(wb_path_or_object, sheet) {
-  # Check if input is a file path or a workbook object
-  if (is.character(wb_path_or_object)) {
-    # If it's a file path, load the workbook
-    wb <- loadWorkbook(wb_path_or_object)
-  } else {
-    # If it's already a workbook object, use it
-    wb <- wb_path_or_object
-  }
-  
-  # Extract data from the specified sheet
-  sheet_data <- read.xlsx(wb, sheet = sheet)
-  
-  # Check if sheet_data is valid
-  if (is.null(sheet_data) || nrow(sheet_data) == 0) {
-    stop("The sheet is empty or doesn't exist.")
-  }
-  
-  # Convert the data frame to an HTML table
-  html_table <- HTML(paste0(
-    '<table border="1" style="width:100%; border-collapse:collapse;">',
-    paste0(
-      '<tr><th>', paste(names(sheet_data), collapse = '</th><th>'), '</th></tr>',
-      paste(apply(sheet_data, 1, function(row) {
-        paste0('<tr><td>', paste(row, collapse = '</td><td>'), '</td></tr>')
-      }), collapse = "")
-    ),
-    '</table>'
-  ))
-  
-  # Render the HTML table in the RStudio Viewer
-  html_print(html_table)
-}
-
-function_plot_print <- function (plotname, plotheight, plotwidth){
   plotname <- gsub(":|\\s|\\n|\\?|\\!|\\'", "", plotname)
-  (current.date <- as.character(strftime (Sys.time(), format="%Y-%m-%d", tz="", usetz=FALSE)))
+  
   rstudioapi::savePlotAsImage(
-    paste(plotname,' -- ',current.date,'.tif',sep=''),
-    format = "tiff", width = plotwidth, height = plotheight)
+    paste(plotname, ' -- ', Sys.Date(), '.', imagetype, sep=''),
+    format = imagetype, width = plotwidth, height = plotheight)
 }
 
 # Packages/libraries -----
@@ -197,9 +125,9 @@ rm(list = ls()[sapply(ls(), function(x) !is.function(get(x)))])
 # Remove all but functions from the environment
 rm(list = ls()[sapply(ls(), function(x) !is.function(get(x)))])
 
-# co <- read.table("https://data.princeton.edu/eco572/datasets/cohhpop.dat", col.names=c("age","pop"), header=FALSE)
-file.filter   <- matrix(c("Text","*.txt","Spreadsheets","*.csv;*.xls;*.xlsx","All","..\\data\\*.*"),byrow=TRUE,ncol=2)
-filename      <- choose.files(filters = file.filter,caption = "Select data file",index = 2,multi=FALSE)
+# tableA4a
+file.filter   <- matrix(c("Text","*.txt","Spreadsheets","*.csv;tableA4a*.xls;tableA4a*.xlsx","All","..\\data\\*.*"),byrow=TRUE,ncol=2)
+filename      <- choose.files(filters = file.filter,caption = "Select data file (tableA4a.xlsx)",index = 2,multi=FALSE)
 #file.extension<- substr(filename, nchar(filename) - 2, nchar(filename))
 file.extension<- substr(filename,regexpr("\\.[^\\.]*$", filename)+1, nchar(filename))
 data.import <- NULL
@@ -252,15 +180,17 @@ names(data_subset)[1] <- "Year"
 # Convert Year to numeric and include year 2023 for filtering
 data_subset$Year <- as.numeric(as.character(data_subset$Year))
 data_subset <- data_subset[(data_subset$Year %% 5 == 0 | data_subset$Year == 2023) & !is.na(data_subset$Year), ]
-years_filtered <- data_subset$Year[(data_subset$Year %% 5 == 0 | data_subset$Year == 2023) & !is.na(data_subset$Year)]is.true(colors)
+#years_filtered <- data_subset$Year[(data_subset$Year %% 5 == 0 | data_subset$Year == 2023) & !is.na(data_subset$Year)]is.true(colors)
+years_filtered <- data_subset$Year[(data_subset$Year %% 5 == 0 | data_subset$Year == 2023) & !is.na(data_subset$Year)]
 # Color assignment with special colors for 1970, 2020, and 2023
+#  Okabe-Ito palette for viewers with color vision deficiency (CVD)
 colors <- sapply(years_filtered, function(year) {
   if (year == 1970) {
-    return("green")
+    return("#009E73") # Bluish Green in place of green
   } else if (year == 2020) {
     return("black")
   } else if (year == 2023) {
-    return("red")
+    return("#D55E00")# Vermilion in place of red
   } else {
     index <- match(year, years_to_color)
     if (!is.na(index)) {
@@ -271,6 +201,7 @@ colors <- sapply(years_filtered, function(year) {
   }
 })
 
+
 # _____________________________ -----
 # Plot -----
 par(mar = c(5.1 + 5, 4.1+1, 4.1, 2.1), mfrow = c(1, 1)) # (bottom, left, top, right)
@@ -280,7 +211,7 @@ plot(
   NA, NA,  # Empty plot to start
   xlim = c(0, 10),  # X-axis limits from 0 to 10
   ylim = c(0, 4),  # Fixed y-axis limits
-  xlab = "Percentile",
+  xlab = "Percentile of U.S. population",
   ylab = "Ratio of income at\nPercentile to Median",
   main = "Ratio for Each Income Percentile to Median Income\nIn the U.S. Since 1970",
   xaxt = "n",  # Suppress default x-axis ticks
@@ -306,8 +237,6 @@ text(x = par("usr")[1] - 0.2, y = seq(0, 4, by = 1), labels = y_labels,
      cex = ifelse(y_labels == "1.0", 1.1, 1), 
      font = ifelse(y_labels == "1.0", 2, 1), 
      xpd = TRUE, adj = 1)
-
-
 
 segments(x0 = 5, y0 = 0.5, x1 = 5, y1 = 1.5, col = "green", lwd = 2)
 segments(x0 = 4, y0 = 1, x1 = 6, y1 = 1, col = "green", lwd = 2)
@@ -353,20 +282,22 @@ for (i in seq_len(nrow(data_subset))) {
       )
       # Add year label to the right of the last point if it's a special line (2020, 2023) or other blue lines
       # Add year label to the right of the last point with the same color as the line
-      text(
-        x = x_values[length(x_values)] + 0.2,  # Slightly to the right of the last point
-        y = ratio_to_median[length(ratio_to_median)],  # Same y-coordinate as the last point
-        labels = years_filtered[i],  # Year label
-        pos = 4,  # Position to the right
-        cex = 0.7,  # Text size
-        col = colors[i]  # Use the color from the colors vector
-      )
+      if (!years_filtered[i] %in% c(1975, 1985, 1995, 2005)) {
+        text(
+          x = x_values[length(x_values)] + 0.2,  # Slightly to the right of the last point
+          y = ratio_to_median[length(ratio_to_median)],  # Same y-coordinate as the last point
+          labels = years_filtered[i],  # Year label
+          pos = 4,  # Position to the right
+          cex = 1,  # Text size
+          col = colors[i]  # Use the color from the colors vector
+        )
+      }
     }
   }
 }
 
 # Add legend in the upper left corner
-legend("topleft", legend = years_filtered, col = colors, lty = 1, cex = 0.8, inset = 0.05)
+legend("topleft", legend = years_filtered, col = colors, lty = 1, cex = 1, inset = 0.05)
 
 text(5.5, 0.5, "Notes:", font = 2, adj = 0)
 text(5.5, 0.3, "CEO pay ratio disclosures publicly available starting in 2018.", adj = 0)
@@ -391,5 +322,5 @@ par(fig = c(0.85, 0.98, 0, 0.15), new = TRUE, mar = c(0, 0, 0, 0))  # Minimize m
 plot.new()  # Start a new plot region
 rasterImage(qr_image, 0, 0, 1, 1)  # Place the QR code image
 
-function_plot_print("Income_distribution_v3",900,1100)
+function_plot_print("Income_distribution_v3",900,1100,'png')
 
