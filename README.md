@@ -2,11 +2,16 @@
 
 Short url to this folder: https://ebmgt.github.io/Wage_ratio
 
+## Income disparities and health outcomes (2025-02)
+Source files
+* [Code and data](../main/files/Code%20and%20data/Income%20inequalities%20analysis)
+
+## Plotting wage ratios over time (2024-11)
 How are the ratios comparing to the wages across percentiles of income in the United States to the median U.S. income vary over the years. An earlier version of this plot is also displayed at WikiPedia:
 * [Income inequality in the United States](https://en.wikipedia.org/wiki/Income_inequality_in_the_United_States)
 
 Source files
-* [Code and data](../main/files/Code%20and%20data)
+* [Code and data](../main/files/Code%20and%20data/Wage%20ratios%20plot)
 * [Plots](../main/files/Plots)
 
  ![Wage ratios](../main/files/Plots/Income_distribution_v3--2025-02-09.png)
